@@ -1,0 +1,39 @@
+*{
+  padding:0px;
+  margin:0px;
+
+}
+.heading{
+  margin-left:200px;
+}
+.container{
+  width:100%;
+
+}
+.AddTask{
+   margin:20px;
+   width:600px;
+   display: flex;
+   justify-content: space-evenly;
+}
+
+.input,.addbtn{
+  font-size:30px;
+}
+
+.listItems{
+  width:400px;
+  margin:30px;
+  margin-left:100px;
+  
+}
+.list{
+  display: flex;
+  justify-content: space-between;
+  margin:20px 0px;
+}
+.btns{
+  display: flex;
+  justify-content: center;
+  gap:20px;
+}
